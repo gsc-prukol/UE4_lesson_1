@@ -1,14 +1,15 @@
- # UE4 Project directories to ignore
- /Binaries/
- /DerivedDataCache/
- /Intermediate/
- /Saved/
- /Build/
- 
- # Visual Studio solutions
- /*.sln
- /*.sdf
- /*.opensdf
- /*.suo
- .vs
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
  
